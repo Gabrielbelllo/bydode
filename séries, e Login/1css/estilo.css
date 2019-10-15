@@ -1,0 +1,79 @@
+.logo{
+    background-color: white;
+    border-radius: 10px;
+    height: 60px;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar{
+border-bottom: 1px solid #999;
+}
+
+   
+#sombra:hover{
+    -webkit-box-shadow: 10px 10px 85px 12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 85px 12px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 85px 12px rgba(0,0,0,0.75);
+}
+.ola :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(31,30,31,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(31,30,31,1);
+box-shadow: 3px -61px 84px -30px rgba(31,30,31,1);
+}
+.ola-2 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(179,149,179,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(179,149,179,1);
+box-shadow: 3px -61px 84px -30px rgba(179,149,179,1);
+}
+.ola-3 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(135,196,204,1);
+    -moz-box-shadow: 3px -61px 84px -30px rgba(135,196,204,1);
+    box-shadow: 3px -61px 84px -30px rgba(135,196,204,1);
+}
+.ola-4 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(181,134,133,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(181,134,133,1);
+box-shadow: 3px -61px 84px -30px rgba(181,134,133,1);
+}
+.ola-5 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(88,0,250,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(88,0,250,1);
+box-shadow: 3px -61px 84px -30px rgba(88,0,250,1);
+}
+.ola-6 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(250,138,0,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(250,138,0,1);
+box-shadow: 3px -61px 84px -30px rgba(250,138,0,1);
+}
+.ola1 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(250,200,0,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(250,200,0,1);
+box-shadow: 3px -61px 84px -30px rgba(250,200,0,1);
+}
+.ola2 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(15,141,167,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(15,141,167,1);
+box-shadow: 3px -61px 84px -30px rgba(15,141,167,1);
+}
+.ola3 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(152,42,15,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(152,42,15,1);
+box-shadow: 3px -61px 84px -30px rgba(152,42,15,1);
+}
+.ola4 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(49,33,38,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(49,33,38,1);
+box-shadow: 3px -61px 84px -30px rgba(49,33,38,1);
+}
+.ola5 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(129,97,27,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(129,97,27,1);
+box-shadow: 3px -61px 84px -30px rgba(129,97,27,1);
+
+}
+.ola6 :hover{
+    -webkit-box-shadow: 3px -61px 84px -30px rgba(148,206,207,1);
+-moz-box-shadow: 3px -61px 84px -30px rgba(148,206,207,1);
+box-shadow: 3px -61px 84px -30px rgba(148,206,207,1);
+}
